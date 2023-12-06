@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 8dd7b0b9fd260084fb5d3612f9e429fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2009
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f0210404263944b47ad71079abd3b
+      internalID: -1043308456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2000
+        width: 153
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74b623e6c918546892dd5f0807c861
+      internalID: -561867721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1994
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8e2c9a5abbc74cb956b3aee442d5b
+      internalID: -1055217829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1993
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a68a3f2322ca4f86459a87a9c4851
+      internalID: 362813436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1988
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be613b02e5659d429dfae7aaf16d311
+      internalID: 1644634779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1993
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce40b54d742b60459a7611e6c93a975
+      internalID: 1327168479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1988
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480ffcf0507200049ba8fce2537dd909
+      internalID: -1917748799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1988
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78546ff21c183458af40b2c5e2cb2e
+      internalID: 1779378813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1979
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77eb98d867646b48827582205d3501f
+      internalID: -1473793961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1865
+        width: 258
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eed3e59b7003d46bef9fe5e75d7847
+      internalID: 1484715302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1827
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5439813c4472ff4aad635161592172d
+      internalID: -1670708824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1818
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0689240280b8343bd349989f396598
+      internalID: -828466816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_25
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1818
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc280297ddd52b244bfd45c0d9b8d34e
+      internalID: -1380610696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1805
+        width: 139
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53530fb160d0f342bc3080e4b14976e
+      internalID: 1218559478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1869
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba20f972e3bf149a0277a7b426fb80
+      internalID: -556346731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1638
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffcd956ec00b6146898f052a9f8a5c7
+      internalID: 914785102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1618
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad74f5fd39653418ced5785d19d5cc
+      internalID: 2053116758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1620
+        width: 465
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd6c0fc3d0bb2049a4e72f127c7079d
+      internalID: 1767010979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1277
+        width: 321
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58e7c0478b5a0246a6e8b67eb55e8db
+      internalID: -1139606850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1349
+        width: 244
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a0b1b70aaa7e40acf656d3c5f3393
+      internalID: -457871228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 495
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb0017218eb484487ba928b61feeb2
+      internalID: -1884255792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 461
+        height: 1257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4129647f43184bbbef0685e045959
+      internalID: -2128535882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 300
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eea75c007d5e5848bf02f9bc956659c
+      internalID: -63288411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 300
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c5ebdaadaa5041937d027af0438fd
+      internalID: 749110864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 517
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8010550ed9a32f4d82b22716157bdb7
+      internalID: 1590106274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 484
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50af933858d8984e82658e55baec850
+      internalID: 1353990558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1714
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30e523efc636347b074916fbcf342c
+      internalID: 1790143973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1991
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf63555c4683da40b1daad922fb14c1
+      internalID: 542803761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetTechnocom_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1981
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8002fc8770ec249bc3191b4c64deb8
+      internalID: 1623151429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheetTechnocom_0: -1043308456
+      SpriteSheetTechnocom_1: -561867721
+      SpriteSheetTechnocom_10: 1590106274
+      SpriteSheetTechnocom_100: -1012789548
+      SpriteSheetTechnocom_101: -163409059
+      SpriteSheetTechnocom_102: -584976036
+      SpriteSheetTechnocom_103: 1441196061
+      SpriteSheetTechnocom_104: 1010957852
+      SpriteSheetTechnocom_105: -2034694326
+      SpriteSheetTechnocom_106: 604970341
+      SpriteSheetTechnocom_107: -1009384340
+      SpriteSheetTechnocom_108: -627879618
+      SpriteSheetTechnocom_109: -1559177430
+      SpriteSheetTechnocom_11: 1353990558
+      SpriteSheetTechnocom_110: -2094157108
+      SpriteSheetTechnocom_111: -1840663970
+      SpriteSheetTechnocom_112: 1628990447
+      SpriteSheetTechnocom_113: 208844580
+      SpriteSheetTechnocom_114: -505597149
+      SpriteSheetTechnocom_115: -787078692
+      SpriteSheetTechnocom_116: 784247367
+      SpriteSheetTechnocom_117: 2109314915
+      SpriteSheetTechnocom_118: -1349127271
+      SpriteSheetTechnocom_119: 359177304
+      SpriteSheetTechnocom_12: 1790143973
+      SpriteSheetTechnocom_120: 598747317
+      SpriteSheetTechnocom_121: 831247004
+      SpriteSheetTechnocom_122: -931307226
+      SpriteSheetTechnocom_123: -355478552
+      SpriteSheetTechnocom_124: -46212598
+      SpriteSheetTechnocom_125: 976083348
+      SpriteSheetTechnocom_126: -1101233700
+      SpriteSheetTechnocom_127: -811812678
+      SpriteSheetTechnocom_128: -693292800
+      SpriteSheetTechnocom_129: -742670116
+      SpriteSheetTechnocom_13: 542803761
+      SpriteSheetTechnocom_130: -1932846268
+      SpriteSheetTechnocom_131: -876559243
+      SpriteSheetTechnocom_132: -1176529271
+      SpriteSheetTechnocom_133: -631805741
+      SpriteSheetTechnocom_134: -413635668
+      SpriteSheetTechnocom_135: -2104587223
+      SpriteSheetTechnocom_136: 230657855
+      SpriteSheetTechnocom_137: 219810543
+      SpriteSheetTechnocom_138: -1276830055
+      SpriteSheetTechnocom_139: 150854765
+      SpriteSheetTechnocom_14: 1623151429
+      SpriteSheetTechnocom_140: 1928226194
+      SpriteSheetTechnocom_141: 1458363056
+      SpriteSheetTechnocom_142: 1284023215
+      SpriteSheetTechnocom_143: -1851226551
+      SpriteSheetTechnocom_144: -1854225191
+      SpriteSheetTechnocom_15: -342150482
+      SpriteSheetTechnocom_16: 1779378813
+      SpriteSheetTechnocom_17: 259586442
+      SpriteSheetTechnocom_18: -1473793961
+      SpriteSheetTechnocom_19: -1472476843
+      SpriteSheetTechnocom_2: -1055217829
+      SpriteSheetTechnocom_20: 1375656403
+      SpriteSheetTechnocom_21: 538772552
+      SpriteSheetTechnocom_22: 1484715302
+      SpriteSheetTechnocom_23: -1670708824
+      SpriteSheetTechnocom_24: -828466816
+      SpriteSheetTechnocom_25: -1380610696
+      SpriteSheetTechnocom_26: 1218559478
+      SpriteSheetTechnocom_27: 1967553708
+      SpriteSheetTechnocom_28: 1545883271
+      SpriteSheetTechnocom_29: 966340744
+      SpriteSheetTechnocom_3: -63288411
+      SpriteSheetTechnocom_30: -556346731
+      SpriteSheetTechnocom_31: 914785102
+      SpriteSheetTechnocom_32: 2053116758
+      SpriteSheetTechnocom_33: 1767010979
+      SpriteSheetTechnocom_34: -1068699541
+      SpriteSheetTechnocom_35: -1446173598
+      SpriteSheetTechnocom_36: -1139606850
+      SpriteSheetTechnocom_37: -811015257
+      SpriteSheetTechnocom_38: 1281066539
+      SpriteSheetTechnocom_39: -457871228
+      SpriteSheetTechnocom_4: 749110864
+      SpriteSheetTechnocom_40: 1723857461
+      SpriteSheetTechnocom_41: -1884255792
+      SpriteSheetTechnocom_42: -1951412735
+      SpriteSheetTechnocom_43: -1318447987
+      SpriteSheetTechnocom_44: -351622016
+      SpriteSheetTechnocom_45: -1130600948
+      SpriteSheetTechnocom_46: -723019395
+      SpriteSheetTechnocom_47: 1374971078
+      SpriteSheetTechnocom_48: -414779129
+      SpriteSheetTechnocom_49: -1481860845
+      SpriteSheetTechnocom_5: 362813436
+      SpriteSheetTechnocom_50: -1076057680
+      SpriteSheetTechnocom_51: 703332093
+      SpriteSheetTechnocom_52: 767285005
+      SpriteSheetTechnocom_53: 1666645507
+      SpriteSheetTechnocom_54: 747339595
+      SpriteSheetTechnocom_55: 1256993046
+      SpriteSheetTechnocom_56: -1420596134
+      SpriteSheetTechnocom_57: 1880489644
+      SpriteSheetTechnocom_58: -1257514108
+      SpriteSheetTechnocom_59: 1413141010
+      SpriteSheetTechnocom_6: 1644634779
+      SpriteSheetTechnocom_60: 1932649094
+      SpriteSheetTechnocom_61: 218107104
+      SpriteSheetTechnocom_62: 910134063
+      SpriteSheetTechnocom_63: -1565181066
+      SpriteSheetTechnocom_64: 35430714
+      SpriteSheetTechnocom_65: -303709533
+      SpriteSheetTechnocom_66: 1137187845
+      SpriteSheetTechnocom_67: 168181753
+      SpriteSheetTechnocom_68: 1224743568
+      SpriteSheetTechnocom_69: -132918914
+      SpriteSheetTechnocom_7: 1327168479
+      SpriteSheetTechnocom_70: -126320943
+      SpriteSheetTechnocom_71: -85806113
+      SpriteSheetTechnocom_72: 241316255
+      SpriteSheetTechnocom_73: -1015514624
+      SpriteSheetTechnocom_74: 328503992
+      SpriteSheetTechnocom_75: -536577416
+      SpriteSheetTechnocom_76: 424902180
+      SpriteSheetTechnocom_77: -2106335586
+      SpriteSheetTechnocom_78: 569784149
+      SpriteSheetTechnocom_79: 1183971165
+      SpriteSheetTechnocom_8: -2128535882
+      SpriteSheetTechnocom_80: 1206069376
+      SpriteSheetTechnocom_81: -907936671
+      SpriteSheetTechnocom_82: 2035170332
+      SpriteSheetTechnocom_83: 115730368
+      SpriteSheetTechnocom_84: -1760415136
+      SpriteSheetTechnocom_85: -49767725
+      SpriteSheetTechnocom_86: -789649810
+      SpriteSheetTechnocom_87: 941788118
+      SpriteSheetTechnocom_88: 1121308946
+      SpriteSheetTechnocom_89: 1098194889
+      SpriteSheetTechnocom_9: -1917748799
+      SpriteSheetTechnocom_90: 1660603554
+      SpriteSheetTechnocom_91: -492914397
+      SpriteSheetTechnocom_92: -1143063995
+      SpriteSheetTechnocom_93: -627635105
+      SpriteSheetTechnocom_94: 154579000
+      SpriteSheetTechnocom_95: -116374704
+      SpriteSheetTechnocom_96: 109631957
+      SpriteSheetTechnocom_97: 1810504669
+      SpriteSheetTechnocom_98: 1110808806
+      SpriteSheetTechnocom_99: 1484996540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
